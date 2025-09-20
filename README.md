@@ -1,5 +1,5 @@
 
-## 📊  Underwriting Risk Scoring with GLM and Segmentation
+## 📊Underwriting Risk Scoring with GLM and Segmentation
 
 ```markdown
 # Underwriting Risk Scoring with GLM and Segmentation
